@@ -60,7 +60,7 @@ if [ $(sudo grep $usu /etc/shadow) ]; then
 							;;
 
 						pp )
-							$PWD/script/zenity.sh
+							$PWD/script/prebeplayer.sh
 							;;
 
 						creditos )
